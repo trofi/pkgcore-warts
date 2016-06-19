@@ -1,9 +1,0 @@
-DEFINED_PHASES=-
-DESCRIPTION=Global uses are not seen by pkgcheck from ::gentoo
-EAPI=6
-HOMEPAGE=https://github.com/trofi/pkgcore-warts
-IUSE=doc
-KEYWORDS=amd64 x86
-LICENSE=public-domain
-SLOT=0
-_md5_=2f83a9d5ab71d408c837fb13bc15a83b
